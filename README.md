@@ -11,3 +11,11 @@ interés.
 - Agregada una función llamada ```url2img.py``` que convierte links de imagenes
 de la web en imágenes.
 - Agregada una función llamada ```plot_img.py``` que grafica imágenes.
+
+---
+
+## Actualización 07/03/22
+
+- Se ha creado la carpeta ```Python``` donde se albergarán todos los programas
+creados en este lenguaje.
+- Se ha creado el archivo ```gitignore```.
