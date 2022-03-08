@@ -19,3 +19,5 @@ de la web en imágenes.
 - Se ha creado la carpeta ```Python``` donde se albergarán todos los programas
 creados en este lenguaje.
 - Se ha creado el archivo ```gitignore```.
+- Se ha creado la carpeta ```ProjectEuler``` con cuadernos de Jupyter donde se
+resuleven los problemas del ProjectEuler. **¡Ver bajo su propio riesgo!**
