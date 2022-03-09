@@ -20,5 +20,11 @@ de la web en imágenes.
 creados en este lenguaje.
 - Se ha creado el archivo ```gitignore```.
 - Se ha creado la carpeta ```ProjectEuler``` con cuadernos de Jupyter donde se
-resuleven los problemas del ProjectEuler. **¡Ver bajo su propio riesgo!.** Hasta
+resuelven los problemas del ProjectEuler. **¡Ver bajo su propio riesgo!.** Hasta
 el momento solo se han resuelto los primeros dos problemas.
+
+---
+
+## Actualización 09/03/22
+
+- Se han resuleto el problema 3 y 4 del Project Euler.
