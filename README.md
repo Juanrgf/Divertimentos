@@ -27,4 +27,12 @@ el momento solo se han resuelto los primeros dos problemas.
 
 ## Actualización 09/03/22
 
-- Se han resuleto el problema 3 y 4 del Project Euler.
+- Se han resuelto el problema 3 y 4 del Project Euler.
+
+---
+
+## Actualización 13/03/22
+
+- Se han reordenado algunas cosas, se han creado algunas carpetas adicionales,
+etc.
+- Se ha resuleto el problema 5 del Project Euler.
