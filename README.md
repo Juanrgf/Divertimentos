@@ -35,4 +35,12 @@ el momento solo se han resuelto los primeros dos problemas.
 
 - Se han reordenado algunas cosas, se han creado algunas carpetas adicionales,
 etc.
-- Se ha resuleto el problema 5 del Project Euler.
+- Se ha resuelto el problema 5 del Project Euler.
+
+---
+
+## Actualización 14/03/22
+
+- Se han resuelto los problemas 6, 7 y 8 del Project Euler.
+- Se ha agregado la carpeta ```data``` donde se alojarán archivos relacionados
+a los problemas del Project Euler.
