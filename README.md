@@ -44,3 +44,10 @@ etc.
 - Se han resuelto los problemas 6, 7 y 8 del Project Euler.
 - Se ha agregado la carpeta ```data``` donde se alojarán archivos relacionados
 a los problemas del Project Euler.
+
+---
+
+## Actualización 17/03/22
+
+- Se ha añadido un archivo .tex en el que se plasmarán los problemas
+conceptuales del libro ISLR. Igual se ha añadido su pdf compilado.
