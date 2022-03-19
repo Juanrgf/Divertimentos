@@ -51,3 +51,10 @@ a los problemas del Project Euler.
 
 - Se ha añadido un archivo .tex en el que se plasmarán los problemas
 conceptuales del libro ISLR. Igual se ha añadido su pdf compilado.
+
+---
+
+## Actualización 18/03/22
+
+- Se han resuelto los problemas 48, 55 y 56 del Project Euler
+- Se ha añadido un cuaderno Jupyter en ```ISLR``` que contendrá las soluciones a los ejercicios del capítulo 2
