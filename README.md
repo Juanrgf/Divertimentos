@@ -58,3 +58,9 @@ conceptuales del libro ISLR. Igual se ha añadido su pdf compilado.
 
 - Se han resuelto los problemas 48, 55 y 56 del Project Euler
 - Se ha añadido un cuaderno Jupyter en ```ISLR``` que contendrá las soluciones a los ejercicios del capítulo 2
+
+---
+
+## Actualización 22/03/22
+
+- Se ha ocultado la carpeta ```Python``` y se ha creado una carpeta ```Prototipos```(oculta también) donde se alojarán los prototipos de proyetos futuros. Una vez que tengan forma se harán públicos.
