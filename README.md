@@ -64,3 +64,9 @@ conceptuales del libro ISLR. Igual se ha añadido su pdf compilado.
 ## Actualización 22/03/22
 
 - Se ha ocultado la carpeta ```Python``` y se ha creado una carpeta ```Prototipos```(oculta también) donde se alojarán los prototipos de proyetos futuros. Una vez que tengan forma se harán públicos.
+
+---
+
+## Actualización 23/03/22
+
+- Se ha creado la carpeta ```Web_scrapping``` con un cuaderno donde se realiza la descarga automática de la imagen del día de la página de Wikimedia. Igual se añade el script ```.py``` donde está solo el código para descargar la imagen y guardarla.
