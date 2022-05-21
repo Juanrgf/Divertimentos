@@ -8,4 +8,4 @@ Cabe aclarar que el sitio del Project Euler recomienda encarecidamente no
 divulgar las soluciones a sus problemas, por lo que la inspección de estos
 cuadernos es responsabilidad del lector/programador.
 
-El lenguaje a usar en estos cuadernos es Python.****
+El lenguaje a usar en estos cuadernos es Python.
